@@ -13,7 +13,9 @@
 
 - 🤝 I’m looking for help with **Angular/AngularJS**
 
-- 👨‍💻 All of my projects are available at [https://vishal10pawar.netlify.app/](https://vishal10pawar.netlify.app/)
+- Portfolio : https://sites.google.com/view/vishalpawar/home (Work in progress)
+
+- 👨‍💻 All of my projects are available at [https://vishal10pawar.netlify.app/](https://vishal10pawar.netlify.app/) (Evolving Portfolio)
 
 - 💬 Ask me about **Java**
 
