@@ -5,19 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalpawar1010" alt="vishalpawar1010" /></a> </p>
 
-- 🔭 I’m currently working on **e-Commerse Project**
 
-- 🌱 I’m currently learning **Angular/AngularJS, Springboot Java**
-
-- 👯 I’m looking to collaborate on **Angular/AngularJS**
-
-- 🤝 I’m looking for help with **Angular/AngularJS**
-
-- Portfolio : https://sites.google.com/view/vishalpawar/home (Work in progress)
-
-- 👨‍💻 All of my projects are available at [https://vishal10pawar.netlify.app/](https://vishal10pawar.netlify.app/) (Evolving Portfolio)
-
-- 💬 Ask me about **Java**
+- Portfolio: https://sites.google.com/view/vishalpawar/home (Work in progress)
+- LinkedIN: https://linkedin.com/in/vshalofficial
+- LDTalent profile: https://www.ldtalentwork.com/freelancer/profile/?erid=vishalp
+- Turingprofile: https://matching.turing.com/developer-resume-preview/0ccd7e2ff21fdd03408992b2a715fef16a6670f4976a72
 
 - 📫 How to reach me **vshalofficial@gmail.com**
 
